@@ -6,8 +6,8 @@ This GitHub repository is part of a paper submission to the **10th International
 
 ![Results for an example customer from the validation dataset in daily resolution (upper part) and in hourly resolution for randomly selected example
 days.](figures/figure_5.png)
-Results for an example customer from the validation dataset in daily resolution (upper part) and in hourly resolution for randomly selected example
-days.
+*Results for an example customer from the validation dataset in daily resolution (upper part) and in hourly resolution for randomly selected example
+days.*
 
 #### Notebooks
 
