@@ -20,9 +20,9 @@ The notebook implements a *DataLoader* class for a more efficient reading of the
 **![A3_DataExploration.ipynb](notebooks/A3_DataExploration.ipynb)**
 The notebook reads the available data using the *DataLoader* class and prepares the data for further feature extraction.
 
-**![B1 Feature Extraction.ipynb](notebooks/B1_FeatureExtraction.ipynb)**
+**![B1_Feature Extraction.ipynb](notebooks/B1_FeatureExtraction.ipynb)**
 The notebook demonstrates the feature extraction using a view examples. It implements a powerful *FeatureExtractor* class.
 
-**![C1 ModelTraining.ipynb](notebooks/C1_ModelTraining.ipynb)**
+**![C1_ModelTraining.ipynb](notebooks/C1_ModelTraining.ipynb)**
 The notebook reads the data, extracts the needed feature vectors and trains a complex prediction model. Selected results for predicting the energy consumption for the next day are shown.
 
