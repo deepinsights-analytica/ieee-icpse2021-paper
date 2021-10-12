@@ -9,6 +9,6 @@ days.](figures/figure_5.png)
 Results for an example customer from the validation dataset in daily resolution (upper part) and in hourly resolution for randomly selected example
 days.
 
-#### Notebooks A1, A2, A3: Data Exploration
-#### Notebook B1 Feature Extraction
+#### Notebooks ![A1](notebooks/A1_DataExploration.ipynb), ![A2](notebooks/A2_DataExploration.ipynb), ![A3](notebooks/A3_DataExploration.ipynb): Data Exploration
+#### Notebook ![B1 Feature Extraction](notebooks/B1_FeatureExtraction.ipynb)
 #### Notebook ![C1 Model Training and Prediction Results](notebooks/C1_ModelTraining.ipynb)
