@@ -9,6 +9,20 @@ days.](figures/figure_5.png)
 Results for an example customer from the validation dataset in daily resolution (upper part) and in hourly resolution for randomly selected example
 days.
 
-#### Notebooks ![A1](notebooks/A1_DataExploration.ipynb), ![A2](notebooks/A2_DataExploration.ipynb), ![A3](notebooks/A3_DataExploration.ipynb): Data Exploration
-#### Notebook ![B1 Feature Extraction](notebooks/B1_FeatureExtraction.ipynb)
-#### Notebook ![C1 Model Training and Prediction Results](notebooks/C1_ModelTraining.ipynb)
+#### Notebooks
+
+**![A1_DataExploration.ipynb](notebooks/A1_DataExploration.ipynb)**
+The notebook reads the available datasets (energy consumptions, weather data, customer profiles) and illustrates the time series using a few examples.
+
+**![A2_DataExploration.ipynb](notebooks/A2_DataExploration.ipynb)**
+The notebook implements a *DataLoader* class for a more efficient reading of the data and metadata. 
+
+**![A3_DataExploration.ipynb](notebooks/A3_DataExploration.ipynb)**
+The notebook reads the available data using the *DataLoader* class and prepares the data for further feature extraction.
+
+**![B1 Feature Extraction.ipynb](notebooks/B1_FeatureExtraction.ipynb)**
+The notebook demonstrates the feature extraction using a view examples. It implements a powerful *FeatureExtractor* class.
+
+**![C1 ModelTraining.ipynb](notebooks/C1_ModelTraining.ipynb)**
+The notebook reads the data, extracts the needed feature vectors and trains a complex prediction model. Selected results for predicting the energy consumption for the next day are shown.
+
